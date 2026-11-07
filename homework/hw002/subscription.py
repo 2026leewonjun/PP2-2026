@@ -1,8 +1,8 @@
 class Subscription:
     def __init__(self, name, price, day):
-        self.name = name      # 서비스 이름
-        self.price = price    # 금액
-        self.day = day        # 결제일
+        self.name = name
+        self.price = price
+        self.day = day    
 
 sub_list = []
 
