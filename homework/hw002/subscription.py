@@ -17,7 +17,7 @@ if __name__ == "__main__":
     mysub = Subscription()
     
     while True:
-        print("\n--- [메뉴] ---")
+        print("\n--- [메뉴] ---") #AI 사용
         try:
             user_choice = int(input("원하시는 기능을 선택해주세요.\n 1. 구독 등록 \n 0. 종료\n >>> "))
             
